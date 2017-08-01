@@ -117,6 +117,12 @@ cd ~/Desktop/alexa-avs-sample-app
 . automated_install.sh
 ```
 
+Setup mic:
+```
+$ alsamixer
+Press F6 to choose your input mic
+```
+
 Create a start script
 ```
 nano startalexa.sh
