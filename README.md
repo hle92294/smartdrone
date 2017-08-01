@@ -104,9 +104,9 @@ cd Desktop/alexa-avs-sample-app
 nano automated_install.sh
 
 Example: 
-	ProductID=raspberry2
-	ClientID=amzn1.appl
-	ClientSecret=2b0a
+	ProductID=raspberry2...
+	ClientID=amzn1.appl...
+	ClientSecret=2b0a...
 ```
 Save & Exit
 
