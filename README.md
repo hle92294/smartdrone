@@ -19,7 +19,7 @@ Install OpenCV
 ```
 
 # AlexaPi Setup 
-
+Link: https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
 ## Format your SD card: 
 
 ```
