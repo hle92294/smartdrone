@@ -1,5 +1,5 @@
-## Ar-drone Setup
-Connect the Drone to my network:
+# Ar-drone Setup
+## Connect the Drone to my network:
 ``` 
  1. Git clone https://github.com/daraosn/ardrone-wpa2
  2. cd to ardrone-wpa2
@@ -10,7 +10,7 @@ Connect the Drone to my network:
 To verify, after 10s, connect to your network, then ping the ip 192.168.1.50 or telnet 
 ```
 
-Install OpenCV
+## Install OpenCV
 ```
  0. Make sure node and npm already installed
  1. Download & install Xcode 
@@ -76,7 +76,7 @@ $ sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 		}
 ```
 
-Register Amazon Alexa 
+## Register Amazon Alexa 
 ```
 First you need to obtain a set of credentials from Amazon to use the Alexa Voice service. Make a note of these credentials as you will be asked for them during the install process.
 
